@@ -1,0 +1,1 @@
+We create a command line interface wtih Go to compare performance compared to Python and R codes over 100 iterations for the housesinput.csv file. To do this, we add subtle changes to the professor's Python and R code to caculate their respective runtimes. It turns out Python has a runtime of 0.46 seconds, R has a runtime of 2.54 seconds, and Go has a runtime of 0.90 seconds.
